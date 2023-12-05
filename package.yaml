@@ -1,10 +1,10 @@
 name:                advent-of-code-2O23
 version:             0.1.0.0
-github:              "githubuser/advent-of-code-2O23"
+github:              "connorkeevill/advent-of-code-2O23"
 license:             BSD-3-Clause
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2023 Author name here"
+author:              "Connor Keevill"
+maintainer:          "connor.keevill.19@gmail.com"
+copyright:           "2023 Connor Keevill"
 
 extra-source-files:
 - README.md
