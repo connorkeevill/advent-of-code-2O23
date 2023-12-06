@@ -24,7 +24,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      One.One
   other-modules:
       Paths_advent_of_code_2O23
   autogen-modules:
