@@ -6,6 +6,9 @@ author:              "Connor Keevill"
 maintainer:          "connor.keevill.19@gmail.com"
 copyright:           "2023 Connor Keevill"
 
+data-files:
+  src/One/input.txt
+
 extra-source-files:
 - README.md
 
