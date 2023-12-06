@@ -3,4 +3,6 @@ module Main (main) where
 import One.One
 
 main :: IO ()
-main = one
+main = do
+  result <- one 
+  print result
